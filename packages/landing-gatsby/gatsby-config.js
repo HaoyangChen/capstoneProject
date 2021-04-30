@@ -49,7 +49,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-fonts`,
+      resolve: `gatsby-plugin-web-font-loader`,
       options: {
         fonts: [
           {
