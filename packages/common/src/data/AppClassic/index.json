@@ -87,22 +87,22 @@
     "carousel": [
       {
         "id": 1,
-        "image": "../../assets/image/appClassic/appSlider1.png",
+        "image": "../../assets/image/appClassic/aghazApp1.png",
         "title": "App Slide 1"
       },
       {
         "id": 2,
-        "image": "../../assets/image/appClassic/appSlider2.png",
+        "image": "../../assets/image/appClassic/aghazApp2.png",
         "title": "App Slide 1"
       },
       {
         "id": 3,
-        "image": "../../assets/image/appClassic/appSlider3.png",
+        "image": "../../assets/image/appClassic/aghazApp3.png",
         "title": "App Slide 1"
       }
     ],
-    "title": "Smart Jackpots that you may love this anytime & anywhere",
-    "description": "The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.",
+    "title": "What Matters to You Matters to Us",
+    "description": "You have goals in life. Whether it is to save for a new home, or for a dream vacation, Aghaz will get you on a path to accomplishing your goals.",
     "features": [
       {
         "id": 1,

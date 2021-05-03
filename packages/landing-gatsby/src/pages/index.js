@@ -37,16 +37,16 @@ export default function() {
           </Sticky>
           <ContentWrapper>
             <Banner />
-            <Customer />
-            <KeyFeatures />
+            {/* <Customer /> */}
+            {/* <KeyFeatures /> */}
             <AppSlider />
             <Features />
             <DesignedAndBuilt />
             <FeatureTab />
-            <PricingPolicy />
+            {/* <PricingPolicy /> */}
             <Testimonial />
             <Faq />
-            <JoinTrail />
+            {/* <JoinTrail /> */}
           </ContentWrapper>
           <Footer />
         </AppWrapper>

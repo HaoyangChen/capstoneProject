@@ -32,15 +32,13 @@ const Banner = () => {
           <Fade up delay={100}>
             <Heading
               as="h1"
-              content="The Revolution of
-      Ultimate Platform to 
-      monitor your task"
+              content="Invest With A
+              Purpose"
             />
           </Fade>
           <Fade up delay={200}>
             <Text
-              content="Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore magna
-      ipsum dolor sit amet consectetur."
+              content="Personalized Halal investing to help you save for what matters most."
             />
           </Fade>
           <Fade up delay={300}>

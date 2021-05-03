@@ -130,31 +130,31 @@ export const keyFeatures = {
 /* ------------------------------------ */
 // App slider data section
 /* ------------------------------------ */
-import appSlide1 from 'common/src/assets/image/appClassic/appSlider1.png';
-import appSlide2 from 'common/src/assets/image/appClassic/appSlider2.png';
-import appSlide3 from 'common/src/assets/image/appClassic/appSlider3.png';
+import aghazApp1 from 'common/src/assets/image/appClassic/aghazApp1.png';
+import aghazApp2 from 'common/src/assets/image/appClassic/aghazApp2.png';
+import aghazApp3 from 'common/src/assets/image/appClassic/aghazApp3.png';
 
 export const appSlider = {
   carousel: [
     {
       id: 1,
-      image: appSlide1,
+      image: aghazApp1,
       title: 'App Slide 1',
     },
     {
       id: 2,
-      image: appSlide2,
+      image: aghazApp2,
       title: 'App Slide 1',
     },
     {
       id: 3,
-      image: appSlide3,
+      image: aghazApp3,
       title: 'App Slide 1',
     },
   ],
-  title: 'Smart Jackpots that you may love this anytime & anywhere',
+  title: 'What Matters to You Matters to Us',
   description:
-    "The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.",
+    "You have goals in life. Whether it is to save for a new home, or for a dream vacation, Aghaz will get you on a path to accomplishing your goals",
   features: [
     {
       id: 1,
