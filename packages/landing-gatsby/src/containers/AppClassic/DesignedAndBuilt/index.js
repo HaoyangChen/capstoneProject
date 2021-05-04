@@ -17,11 +17,14 @@ const DesignedAndBuilt = () => {
           }
           title
           description
+          description2
+          description3
+          description4
         }
       }
     }
   `);
-  const { image, title, description } = data.appClassicJson.designAndBuilt;
+  const { image, title, description, description2, description3, description4 } = data.appClassicJson.designAndBuilt;
 
   return (
     <SectionWrapper>
@@ -33,7 +36,10 @@ const DesignedAndBuilt = () => {
           <div className="content">
             <Heading content={title} />
             <Text content={description} />
-            <Button title="Learn More" />
+            <Text content={description2} />
+            <Text content={description3} />
+            <Text content={description4} />
+            {/* <Button title="Learn More" /> */}
           </div>
         </ContentWrapper>
       </Container>

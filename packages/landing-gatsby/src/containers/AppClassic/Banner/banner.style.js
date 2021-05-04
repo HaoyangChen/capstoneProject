@@ -78,6 +78,8 @@ export const RatingInfo = styled.div`
 export const BannerImage = styled.div`
   flex-shrink: 0;
   align-self: flex-end;
+  width: 459px;
+  height: 643px;
   @media only screen and (max-width: 480px) {
     margin-top: 40px;
     img {

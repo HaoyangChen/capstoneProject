@@ -47,7 +47,7 @@ const Footer = () => {
   return (
     <FooterArea>
       <Container>
-        <WidgetArea>
+        {/* <WidgetArea>
           {widgets.map(item => (
             <Box className="col" key={`footer-widget--key${item.id}`}>
               <Image src={item.icon.publicURL} alt={item.title} />
@@ -55,7 +55,7 @@ const Footer = () => {
               <Text content={item.description} />
             </Box>
           ))}
-        </WidgetArea>
+        </WidgetArea> */}
         {/* End of footer widgets area */}
         <MenuArea>
           <Logo
@@ -71,7 +71,7 @@ const Footer = () => {
               </MenuItem>
             ))}
           </Menu>
-          <CopyrightText>Copyright {year} By RedQ Inc</CopyrightText>
+          <CopyrightText>Copyright {year} By Aghaz Investments</CopyrightText>
         </MenuArea>
         {/* End of footer menu area */}
       </Container>

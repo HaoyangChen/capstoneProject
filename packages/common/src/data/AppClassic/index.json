@@ -1,6 +1,6 @@
 {
   "navbar": {
-    "logo": "../../assets/image/appClassic/logo.png",
+    "logo": "../../assets/image/appClassic/aghazLogo.png",
     "navMenu": [
       {
         "id": 1,
@@ -107,20 +107,20 @@
       {
         "id": 1,
         "icon": "flaticon-bitcoin",
-        "title": "Automatic Payouts",
-        "description": "Casinos no longer control the payout process."
+        "title": "Questionnaire",
+        "description": "Ask the user to input several factors that affect the financial health score"
       },
       {
         "id": 2,
         "icon": "flaticon-atom",
-        "title": "Network Effect",
-        "description": "Big player rewards with the added security and transparency provided by the blockchain."
+        "title": "Score",
+        "description": "Compare the user's performance with all users on the platform."
       },
       {
         "id": 3,
         "icon": "flaticon-money-bag",
-        "title": "Bigger Rewards Method",
-        "description": "Casinos contribute 1% of wagers to decentralised prize pool Players are incentivized to play more to win bigger rewards."
+        "title": "Feedback",
+        "description": "Provide specific tips and recommendations on how the user can improve"
       }
     ]
   },
@@ -133,49 +133,52 @@
         "color": "#F55767",
         "icon": "../../assets/image/appClassic/featureIcon-1.svg",
         "title": "App Development",
-        "description": "Get your proof tests delivered home collect a sample from the news get design."
+        "description": "We utilize the latest technology - React Native, AWS Amplify & RDS, and Node.js to build the app"
       },
       {
         "id": 2,
         "color": "#3DABDD",
         "icon": "../../assets/image/appClassic/featureIcon-2.svg",
-        "title": "10 Times Award",
-        "description": "Get your proof tests delivered home collect a sample from the news get design."
+        "title": " Ethical Investment",
+        "description": "Start investing and saving money without compromise"
       },
       {
         "id": 3,
         "color": "#D6AB00",
         "icon": "../../assets/image/appClassic/featureIcon-3.svg",
-        "title": "Cloud Storage",
-        "description": "Get your proof tests delivered home collect a sample from the news get design."
+        "title": "Privacy and Security",
+        "description": "We are a technology-first company that utilizes bank-level security to protect your information."
       },
       {
         "id": 4,
         "color": "#40975F",
         "icon": "../../assets/image/appClassic/featureIcon-4.svg",
         "title": "Customization",
-        "description": "Get your proof tests delivered home collect a sample from the news get design."
+        "description": "You fund your goals. Aghaz builds a fully diversified, optimized portfolio for you"
       },
       {
         "id": 5,
         "color": "#5856D6",
         "icon": "../../assets/image/appClassic/featureIcon-5.svg",
-        "title": "UX Planning",
-        "description": "Get your proof tests delivered home collect a sample from the news get design."
+        "title": "Planning",
+        "description": "We check where you are in your financial journey to learn what is most important to you"
       },
       {
         "id": 6,
         "color": "#E97325",
         "icon": "../../assets/image/appClassic/featureIcon-6.svg",
         "title": "Customer Support",
-        "description": "Get your proof tests delivered home collect a sample from the news get design."
+        "description": "Get you questions addressed by calling us at 425-202-6196 or emailing info@aghazinvest.com"
       }
     ]
   },
   "designAndBuilt": {
-    "image": "../../assets/image/appClassic/appAndMap.png",
-    "title": "Designed & Built by the latest code integration",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore features that Lorem ipsum dolor sit amet consectetur."
+    "image": "../../assets/image/appClassic/aghazFingertip.jpeg",
+    "title": "Halal Investing at your Fingertips",
+    "description": "- Invest in fully optimized managed portfolios",
+    "description2": "- Check if current investments align with your values",
+    "description3": "- Use financial tools to play out various scenarios",
+    "description4": "- Calculate your Zakat"
   },
   "featuresTab": {
     "slogan": "DIFFERENTIATION",
@@ -379,28 +382,28 @@
     ]
   },
   "faq": {
-    "slogan": "FREQUENT QUESTION",
-    "title": "Do you have any question",
+    "slogan": "FREQUENT QUESTIONS",
+    "title": "FAQ",
     "faqs": [
       {
         "id": 1,
-        "question": "How to contact with riders emergency?",
-        "answer": "Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home. Your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news."
+        "question": "What is Aghaz? Isn't it the same as other investment advisors?",
+        "answer": "Aghaz is a different kind of investment advisor. We do not exist for the sake of technology; nor to provide yet another mechanism, automated or otherwise, for customers to invest for their retirement; nor to optimize our portfolios to beat the market no matter what. Simply put, we are in the business to enable people to save for their goals according to their beliefs."
       },
       {
         "id": 2,
-        "question": "App installation failed, how to update system information?",
-        "answer": "Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home. Your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news."
+        "question": "How do I contact Aghaz if I have comments or questions?",
+        "answer": "You can contact us by calling us directly at 425-202-6196 or email us at info@aghazinvest.com"
       },
       {
         "id": 3,
-        "question": "Website reponse taking time, how to improve?",
-        "answer": "Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home. Your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news."
+        "question": "What does 'Values-based investing' mean?",
+        "answer": "We believe that we all have values and beliefs that we live our lives by, causes that are important to us. We are providing a mechanism for the investors with values who would like to save for their goals in alignment with their values. Whatever those values are. Those could be Environmental, Social or Governance related; religion or faith based. Or something else."
       },
       {
         "id": 4,
-        "question": "New update fixed all bug and issues",
-        "answer": "Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home. Your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news."
+        "question": "Can I be sure that my login and my financial information will remain secure?",
+        "answer": "Yes, your data will remain encrypted and secure with us. We meet or exceed all industry standards."
       }
     ]
   },
@@ -430,7 +433,7 @@
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore."
       }
     ],
-    "logo": "../../assets/image/appClassic/logoWhite.png",
+    "logo": "../../assets/image/appClassic/aghazLogo.png",
     "menu": [
       {
         "id": 1,

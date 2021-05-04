@@ -8,6 +8,7 @@ import { menu } from 'react-icons-kit/feather/menu';
 import { x } from 'react-icons-kit/feather/x';
 import { search } from 'react-icons-kit/feather/search';
 import Logo from 'common/src/components/UIElements/Logo';
+// import Logo from 'common/src/assets/image/appClassic/aghazLogo.png';
 import Button from 'common/src/components/Button';
 import Container from 'common/src/components/UI/Container';
 import useOnClickOutside from 'common/src/hooks/useOnClickOutside';
@@ -99,7 +100,7 @@ const Navbar = () => {
           <ScrollSpyMenu className="menu" menuItems={navMenu} offset={-84} />
           {/* end of main menu */}
 
-          <Search className="search" ref={searchRef}>
+          {/* <Search className="search" ref={searchRef}>
             <form onSubmit={handleSearchForm}>
               <input
                 type="text"
@@ -114,12 +115,12 @@ const Navbar = () => {
               icon={<Icon icon={state.searchToggle ? x : search} />}
               onClick={() => toggleHandler('search')}
             />
-          </Search>
+          </Search> */}
           {/* end of search */}
 
-          <AnchorLink href="#trail" offset={84}>
+          {/* <AnchorLink href="#trail" offset={84}>
             <Button className="trail" title="Try for Free" />
-          </AnchorLink>
+          </AnchorLink> */}
 
           <Button
             className="menubar"
@@ -143,7 +144,7 @@ const Navbar = () => {
       <MobileMenu className={`mobile-menu ${state.mobileMenu ? 'active' : ''}`}>
         <Container>
           <ScrollSpyMenu className="menu" menuItems={navMenu} offset={-84} />
-          <Button title="Try for Free" />
+          {/* <Button title="Try for Free" /> */}
         </Container>
       </MobileMenu>
       {/* end of mobile menu */}

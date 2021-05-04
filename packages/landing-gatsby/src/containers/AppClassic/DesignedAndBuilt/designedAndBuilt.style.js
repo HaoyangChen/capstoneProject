@@ -16,9 +16,10 @@ export const ContentWrapper = styled.div`
   flex-wrap: wrap;
   align-items: center;
   .image {
-    width: calc(100% - 393px);
+    width: calc(100% - 550px);
+    
     @media only screen and (max-width: 991px) {
-      width: calc(100% - 290px);
+      width: calc(100% - 350px);
     }
     @media only screen and (max-width: 667px) {
       width: 100%;
@@ -27,11 +28,14 @@ export const ContentWrapper = styled.div`
   }
   .content {
     width: 393px;
+    margin-left: 120px;
     @media only screen and (max-width: 991px) {
       width: 290px;
+      margin-left: 30px;
     }
     @media only screen and (max-width: 667px) {
       width: 100%;
+      margin-left: 0px;
     }
     h2 {
       color: ${themeGet('colors.headingColor', '#0F2137')};

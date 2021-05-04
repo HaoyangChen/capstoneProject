@@ -16,19 +16,19 @@ import BannerWrapper, {
 } from './banner.style';
 
 import microsoft from 'common/src/assets/image/appClassic/microsoft.svg';
-import bannerImg from 'common/src/assets/image/appClassic/bannerImg.png';
+import bannerImg from 'common/src/assets/image/appClassic/aghazBanner.png';
 
 const Banner = () => {
   return (
     <BannerWrapper id="home">
       <Container>
         <BannerContent>
-          <Fade up>
+          {/* <Fade up>
             <RatingInfo>
               <Rating rating={4} />
               4.9 of 5 By <img src={microsoft} alt="Microsoft" />
             </RatingInfo>
-          </Fade>
+          </Fade> */}
           <Fade up delay={100}>
             <Heading
               as="h1"
