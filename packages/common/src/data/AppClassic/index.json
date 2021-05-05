@@ -10,13 +10,13 @@
       },
       {
         "id": 2,
-        "label": "App Slider",
+        "label": "Features",
         "path": "#appSlider",
         "offset": "84"
       },
       {
         "id": 3,
-        "label": "Features",
+        "label": "Why Aghaz",
         "path": "#features",
         "offset": "84"
       },
