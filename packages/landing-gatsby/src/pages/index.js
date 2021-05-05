@@ -27,7 +27,7 @@ export default function() {
   return (
     <ThemeProvider theme={theme}>
       <>
-        <SEO title="App Classic" />
+        <SEO title="Capstone Project" />
         <ResetCSS />
         <GlobalStyle />
 
@@ -42,7 +42,7 @@ export default function() {
             <AppSlider />
             <Features />
             <DesignedAndBuilt />
-            <FeatureTab />
+            {/* <FeatureTab /> */}
             {/* <PricingPolicy /> */}
             <Testimonial />
             <Faq />

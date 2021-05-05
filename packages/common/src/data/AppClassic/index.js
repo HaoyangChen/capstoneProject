@@ -33,14 +33,14 @@ export const navbar = {
     },
     {
       id: 2,
-      label: 'Key Features',
-      path: '#keyFeatures',
+      label: 'App Slider',
+      path: '#appSlider',
       offset: '84',
     },
     {
       id: 3,
-      label: 'Pricing',
-      path: '#pricing',
+      label: 'Features',
+      path: '#features',
       offset: '84',
     },
     {

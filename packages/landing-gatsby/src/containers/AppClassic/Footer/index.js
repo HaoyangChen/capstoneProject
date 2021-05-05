@@ -64,14 +64,14 @@ const Footer = () => {
             logoSrc={logo.publicURL}
             title="App Classic"
           />
-          <Menu>
+          {/* <Menu>
             {menu.map(item => (
               <MenuItem key={`footer-link${item.id}`}>
                 <a href={item.link}>{item.text}</a>
               </MenuItem>
             ))}
-          </Menu>
-          <CopyrightText>Copyright {year} By Aghaz Investments</CopyrightText>
+          </Menu> */}
+          <CopyrightText>Copyright {year} By Team 402 Payment Required (Haoyang Chen, George Gu, Joanna Xiao, Ajay Kristipati)</CopyrightText>
         </MenuArea>
         {/* End of footer menu area */}
       </Container>

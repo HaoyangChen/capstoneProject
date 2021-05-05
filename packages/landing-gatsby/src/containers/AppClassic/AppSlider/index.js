@@ -49,7 +49,7 @@ const AppSlider = () => {
   };
 
   return (
-    <SectionWrapper>
+    <SectionWrapper id="appSlider">
       <Container>
         <CarouseWrapper>
           <GlideCarousel

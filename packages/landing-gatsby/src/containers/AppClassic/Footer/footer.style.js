@@ -4,13 +4,14 @@ import { themeGet } from '@styled-system/theme-get';
 const FooterArea = styled.footer`
   padding: 96px 0 60px;
   margin-top: 75px;
+  padding-top: 20px;
   background-color: ${themeGet('colors.secondary', '#09142E')};
   @media only screen and (max-width: 1366px) {
-    padding-top: 80px;
+    padding-top: 20px;
     margin-top: 60px;
   }
   @media only screen and (max-width: 667px) {
-    padding-top: 80px;
+    padding-top: 20px;
     padding-bottom: 50px;
     margin-top: 45px;
   }

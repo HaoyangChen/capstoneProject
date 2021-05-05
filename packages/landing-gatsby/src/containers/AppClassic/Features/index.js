@@ -36,7 +36,7 @@ const Features = () => {
   const { slogan, title, items } = data.appClassicJson.features;
 
   return (
-    <SectionWrapper>
+    <SectionWrapper id="features">
       <Container>
         <SectionHeader>
           <Fade up>
