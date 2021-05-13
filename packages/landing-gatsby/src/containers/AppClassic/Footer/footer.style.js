@@ -17,7 +17,7 @@ const FooterArea = styled.footer`
   }
   .logo {
     img {
-      width: 128px;
+      width: 300px;
       height: auto;
     }
   }
@@ -128,9 +128,11 @@ export const MenuItem = styled.li`
 `;
 
 export const CopyrightText = styled.p`
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.9);
   margin-bottom: 0;
   font-size: 14px;
+  width: 70%;
+  text-align: center;
 `;
 
 export default FooterArea;

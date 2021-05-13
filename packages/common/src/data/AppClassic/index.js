@@ -665,7 +665,7 @@ export const joinSlack = {
 import chat from 'common/src/assets/image/appClassic/chat.svg';
 import group from 'common/src/assets/image/appClassic/group.svg';
 import github from 'common/src/assets/image/appClassic/github.svg';
-import footerLogo from 'common/src/assets/image/appClassic/logoWhite.png';
+import footerLogo from 'common/src/assets/image/appClassic/ischool_logo.svg';
 
 export const footer = {
   widgets: [
