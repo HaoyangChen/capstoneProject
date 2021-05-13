@@ -13,6 +13,7 @@ import DesignedAndBuilt from '../containers/AppClassic/DesignedAndBuilt';
 import FeatureTab from '../containers/AppClassic/FeatureTab';
 import PricingPolicy from '../containers/AppClassic/PricingPolicy';
 import Testimonial from '../containers/AppClassic/Testimonial';
+import TeamSection from '../containers/AppClassic/TeamSection';
 import Faq from '../containers/AppClassic/Faq';
 import JoinTrail from '../containers/AppClassic/JoinTrail';
 import Footer from '../containers/AppClassic/Footer';
@@ -45,6 +46,7 @@ export default function() {
             {/* <FeatureTab /> */}
             {/* <PricingPolicy /> */}
             <Testimonial />
+            <TeamSection />
             <Faq />
             {/* <JoinTrail /> */}
           </ContentWrapper>

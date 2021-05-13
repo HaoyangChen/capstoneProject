@@ -279,6 +279,11 @@ import appTabImg4 from 'common/src/assets/image/appClassic/appTabImg4.png';
 import appTabImg5 from 'common/src/assets/image/appClassic/appTabImg5.png';
 import appTabImg6 from 'common/src/assets/image/appClassic/appTabImg6.png';
 
+import Member1 from '../../assets/image/appClassic/team/member-1.jpg';
+import Member2 from '../../assets/image/appClassic/team/member-2.jpg';
+import Member3 from '../../assets/image/appClassic/team/member-3.jpg';
+import Member4 from '../../assets/image/appClassic/team/member-4.jpg';
+
 export const featuresTab = {
   slogan: 'DIFFERENTIATION',
   title: 'Ultimate features that we built',
@@ -390,6 +395,120 @@ export const pricing = {
         {
           id: 4,
           text: 'eCommerce Store ',
+        },
+      ],
+    },
+  ],
+  teamMember: [
+    {
+      id: 1,
+      name: 'Jessica Fanddy',
+      thumbnail_url: Member1,
+      designation: 'Co Founder',
+      social_links: [
+        {
+          id: 1,
+          icon: 'flaticon-facebook-logo',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-twitter-logo-silhouette',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-instagram',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-dribble-logo',
+          url: '#',
+        },
+      ],
+    },
+    {
+      id: 2,
+      name: 'Devid Justingul',
+      thumbnail_url: Member2,
+      designation: 'Senior Ui/UX Designer',
+      social_links: [
+        {
+          id: 1,
+          icon: 'flaticon-facebook-logo',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-twitter-logo-silhouette',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-instagram',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-dribble-logo',
+          url: '#',
+        },
+      ],
+    },
+    {
+      id: 3,
+      name: 'Handdy Albuzz',
+      thumbnail_url: Member3,
+      designation: 'Article Writer',
+      social_links: [
+        {
+          id: 1,
+          icon: 'flaticon-facebook-logo',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-twitter-logo-silhouette',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-instagram',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-dribble-logo',
+          url: '#',
+        },
+      ],
+    },
+    {
+      id: 4,
+      name: 'Handdy Albuzz',
+      thumbnail_url: Member4,
+      designation: 'Article Writer',
+      social_links: [
+        {
+          id: 1,
+          icon: 'flaticon-facebook-logo',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-twitter-logo-silhouette',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-instagram',
+          url: '#',
+        },
+        {
+          id: 1,
+          icon: 'flaticon-dribble-logo',
+          url: '#',
         },
       ],
     },

@@ -28,6 +28,12 @@
       },
       {
         "id": 5,
+        "label": "Team",
+        "path": "#teamSection",
+        "offset": "80"
+      },
+      {
+        "id": 6,
         "label": "Faq",
         "path": "#faq",
         "offset": "80"
@@ -348,6 +354,115 @@
       }
     ]
   },
+  "teamMember": [{
+    "id": 1,
+    "name": "Haoyang Chen",
+    "thumbnail_url": "../../assets/image/appClassic/team/member-1.jpg",
+    "designation": "Software Engineer",
+    "social_links": [{
+        "id": 1,
+        "icon": "flaticon-facebook-logo",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-twitter-logo-silhouette",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-instagram",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-dribble-logo",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "George Gu",
+    "thumbnail_url": "../../assets/image/appClassic/team/member-2.jpg",
+    "designation": "UI/UX Designer",
+    "social_links": [{
+        "id": 1,
+        "icon": "flaticon-facebook-logo",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-twitter-logo-silhouette",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-instagram",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-dribble-logo",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Joanna Xiao",
+    "thumbnail_url": "../../assets/image/appClassic/team/member-3.jpg",
+    "designation": "UI/UX Designer",
+    "social_links": [{
+        "id": 1,
+        "icon": "flaticon-facebook-logo",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-twitter-logo-silhouette",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-instagram",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-dribble-logo",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ajay Kristipati",
+    "thumbnail_url": "../../assets/image/appClassic/team/member-4.jpg",
+    "designation": "Software Engineer",
+    "social_links": [{
+        "id": 1,
+        "icon": "flaticon-facebook-logo",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-twitter-logo-silhouette",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-instagram",
+        "url": "#"
+      },
+      {
+        "id": 1,
+        "icon": "flaticon-dribble-logo",
+        "url": "#"
+      }
+    ]
+  }
+],
   "testimonial": {
     "slogan": "TESTIMONIAL",
     "title": "Meet User Satisfaction by testing the product",
