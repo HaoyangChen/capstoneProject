@@ -8,6 +8,8 @@ import Button from 'common/src/components/Button';
 import Heading from 'common/src/components/Heading';
 import Rating from 'common/src/components/Rating';
 import Container from 'common/src/components/UI/Container';
+import { navigate } from "gatsby";
+
 import BannerWrapper, {
   BannerContent,
   RatingInfo,
@@ -44,13 +46,15 @@ const Banner = () => {
           <Fade up delay={300}>
             <ButtonGroup>
               {/* <Button className="primary" title="Start Free trail" />  */}
+              <a href="https://youtu.be/pBi6wOxXS4Q" target="_blank" >
               <Button
                 className="text"
                 variant="textButton"
                 icon={<Icon icon={playCircle} />}
                 iconPosition="left"
-                title="Watch Video"
+                title="Watch Demo Video"
               />
+              </a>
             </ButtonGroup>
           </Fade>
         </BannerContent>
