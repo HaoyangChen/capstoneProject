@@ -60,7 +60,7 @@ const Footer = () => {
         <MenuArea>
           <Logo
             className="logo"
-            href="/appclassic"
+            href="/"
             logoSrc={logo.publicURL}
             title="App Classic"
           />

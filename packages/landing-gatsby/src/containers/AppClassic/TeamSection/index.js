@@ -75,17 +75,6 @@ const TeamSection = ({
                 description={
                   <Fragment>
                     <Text content={member.designation} {...designation} />
-                    <SocialLinks>
-                      {member.social_links.map((social, index) => (
-                        <a
-                          href={social.url}
-                          key={`profile_id-${index}`}
-                          aria-label={social.icon}
-                        >
-                          <i className={social.icon}></i>
-                        </a>
-                      ))}
-                    </SocialLinks>
                   </Fragment>
                 }
               />
